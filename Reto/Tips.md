@@ -14,7 +14,6 @@ for i in range(10):
     print(i)
 ```
 
-
 <!-- Sección de tips -->
 
 Luis Marin
@@ -34,5 +33,10 @@ globalThis.commands = commands;
 
 > [!TIP]
 > Si es posible, despliega algunos proyectos en plataformas como Heroku, Vercel o **GitHub Pages**. Tener proyectos en vivo le da a los reclutadores una forma directa de interactuar con tus aplicaciones sin tener que clonar repositorios.
+
+JoshCobra
+
+> [!TIP]
+> El mejor tip de todos, que va a hacer que tu perfil de verdad **Resalte** [Aqui](https://gprm.itsvg.in/) Para que puedas tener tus stats y mas cosas.
 
 <!-- Sección de tips - FIN -->
