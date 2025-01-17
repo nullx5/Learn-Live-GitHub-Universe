@@ -39,4 +39,16 @@ JoshCobra
 > [!TIP]
 > El mejor tip de todos, que va a hacer que tu perfil de verdad **Resalte** [Aqui](https://gprm.itsvg.in/) Para que puedas tener tus stats y mas cosas.
 
+Andre
+
+> [!TIP] 
+> Mantén tu README limpio y estructurado. Usa encabezados para organizar la información y hacerla fácil de leer.
+
+```md
+# Nombre del Proyecto
+
+## Descripción
+Una breve descripción.
+```
+
 <!-- Sección de tips - FIN -->
