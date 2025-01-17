@@ -30,5 +30,9 @@ declare global {
 globalThis.commands = commands;
 ```
 
+[Bbenrod](https://github.com/Bbenrod)
+
+> [!TIP]
+> Si es posible, despliega algunos proyectos en plataformas como Heroku, Vercel o **GitHub Pages**. Tener proyectos en vivo le da a los reclutadores una forma directa de interactuar con tus aplicaciones sin tener que clonar repositorios.
 
 <!-- Sección de tips - FIN -->
