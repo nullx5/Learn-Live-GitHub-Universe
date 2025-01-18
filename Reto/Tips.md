@@ -86,4 +86,18 @@ Jonás Perusquía
 > [!TIP]
 > Siempre tener una rama "segura" o "principal" que siempre sea la fuente de la verdad, y cualquier cambio hacerlo derivando de esa rama, de esa manera evitas accidentes o errores humanos. - @jonaspm
 
+Gabriel Menacho
+
+> [!TIP]
+> Un archivo README puede incluir información como: 
+
+- Descripción del proyecto 
+- Tabla de contenidos 
+- Ejemplos del proyecto 
+- Características principales 
+- Cómo instalar y ejecutar el proyecto 
+- Cómo se creó el proyecto 
+- Recursos útiles 
+- Licencia
+
 <!-- Sección de tips - FIN -->
