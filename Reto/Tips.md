@@ -107,4 +107,21 @@ Adrian Burgos
 
 🌱 🎉 ✏️
 
+Juan Leon 🇨🇴
+
+> [!TIP]
+> Puedes agregar tablas a tú README.md para darle un mejor formato:
+
+```
+| Columna 1 | Columna 2 | Columna 3 |
+|-----------|-----------|-----------|
+| Dato 1    | Dato 2    | Dato 3    |
+| Dato A    | Dato B    | Dato C    |
+```
+| Columna 1 | Columna 2 | Columna 3 |
+|-----------|-----------|-----------|
+| Dato 1    | Dato 2    | Dato 3    |
+| Dato A    | Dato B    | Dato C    |
+
+
 <!-- Sección de tips - FIN -->
