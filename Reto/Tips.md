@@ -100,4 +100,11 @@ Gabriel Menacho
 - Recursos útiles 
 - Licencia
 
+Adrian Burgos
+
+> [!TIP]
+> Puedes agregar emojies dentro de un archivo markdown
+
+🌱 🎉 ✏️
+
 <!-- Sección de tips - FIN -->
