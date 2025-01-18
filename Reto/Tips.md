@@ -3,6 +3,8 @@
 ¡Hola! Nos emociona saber que has llegado hasta aquí, por favor comparte algunos tips o comentarios con la comunidad para resaltar su portafolio. 
 No te olvides de utilizar formato en Markdown para resaltar tus aportes, sigue esta estructura:
 
+<!-- Sección de tips -->
+
 Alejandra Pérez
 
 > [!TIP]
@@ -14,9 +16,9 @@ for i in range(10):
     print(i)
 ```
 
+Jonás Perusquía
 
-<!-- Sección de tips -->
-
-Siempre tener una rama "segura" o "principal" que siempre sea la fuente de la verdad, y cualquier cambio hacerlo derivando de esa rama, de esa manera evitas accidentes o errores humanos. - @jonaspm
+> [!TIP]
+> Siempre tener una rama "segura" o "principal" que siempre sea la fuente de la verdad, y cualquier cambio hacerlo derivando de esa rama, de esa manera evitas accidentes o errores humanos. - @jonaspm
 
 <!-- Sección de tips - FIN -->
