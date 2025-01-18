@@ -72,4 +72,13 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam vehicula metus 
 ### Sección 2
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec varius lacinia felis vel consectetur. Integer pretium libero felis, nec imperdiet orci malesuada eget. Maecenas et libero turpis. Aliquam sed magna eget orci volutpat vehicula a at felis. Donec auctor tempor risus ut rutrum. Phasellus sollicitudin mauris eget ligula posuere fermentum.
 
+Guadalupe Quintal
+
+> [!TIP]
+> [Puedes consultar el siguiente repositorio para agregar Badges a tu Readme de presentación](https://github.com/alexandresanlim/Badges4-README.md-Profile)
+>
+> Por ejemplo:
+> 
+> ![image](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
+
 <!-- Sección de tips - FIN -->
