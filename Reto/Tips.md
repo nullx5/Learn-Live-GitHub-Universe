@@ -81,4 +81,9 @@ Guadalupe Quintal
 > 
 > ![image](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 
+Jonás Perusquía
+
+> [!TIP]
+> Siempre tener una rama "segura" o "principal" que siempre sea la fuente de la verdad, y cualquier cambio hacerlo derivando de esa rama, de esa manera evitas accidentes o errores humanos. - @jonaspm
+
 <!-- Sección de tips - FIN -->
