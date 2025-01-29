@@ -107,7 +107,7 @@ Adrian Burgos
 
 🌱 🎉 ✏️
 
-Juan Leon bl3ssedc0de🇨🇴
+Juan Leon 🇨🇴
 
 > [!TIP]
 > Puedes agregar tablas a tú README.md para darle un mejor formato:
